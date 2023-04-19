@@ -17,3 +17,8 @@ console.log(familyAges.pop());
 //The array will be false, false,true.
 console.log(happy.shift());
 
+//Index positions are the spots on which our elements are in your array.
+//For examply, in my plants array
+//My elements that is index 0 is Roses. All index positions begin with 0.
+//I may have four elements but my last index position for all of
+//the varaibles is 3. 
